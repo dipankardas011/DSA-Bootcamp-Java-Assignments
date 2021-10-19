@@ -4,6 +4,7 @@ using namespace std;
 class Solution
 {
 public:
+// do it using cycle sort
   int firstMissingPositive(vector<int> nums)
   {
     sort(nums.begin(), nums.end());
