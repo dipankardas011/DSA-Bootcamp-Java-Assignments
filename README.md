@@ -5,7 +5,7 @@ list
  - [x] 02-first-java.md
  - [x] 03-conditionals-loops.md
  - [x] 04-functions.md
- - [ ] 05-arrays.md
+ - [x] 05-arrays.md
  - [ ] 06-searching.md
  - [ ] 07-sorting.md
  - [ ] 08-strings.md
