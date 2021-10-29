@@ -43,11 +43,11 @@
 - [4 Sum(DONE)](https://leetcode.com/problems/4sum/)
 
 ## Hard
-- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-- [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
-- [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
-- [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
-- [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
-- [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
+- [Median of Two Sorted Arrays(DONE)](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [Find Minimum in Rotated Sorted Array II(DONE)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+- [Aggressive cows(DONE)](https://www.spoj.com/problems/AGGRCOW/)
+- [Book allocation(DONE)](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
+- [Split Array Largest Sum(DONE)](https://leetcode.com/problems/split-array-largest-sum/)
+- [Find in Mountain Array(DONE)](https://leetcode.com/problems/find-in-mountain-array/)
 - [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
-- [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html)
+- [Divide Chocolate Problem(DONE)](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html)
