@@ -6,7 +6,7 @@ list
  - [x] 03-conditionals-loops.md
  - [x] 04-functions.md
  - [x] 05-arrays.md
- - [ ] 06-searching.md
+ - [x] 06-searching.md
  - [ ] 07-sorting.md
  - [ ] 08-strings.md
  - [ ] 09-patterns.md
