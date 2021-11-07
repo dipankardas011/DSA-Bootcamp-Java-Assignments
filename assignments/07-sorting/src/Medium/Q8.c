@@ -8,5 +8,5 @@ struct ListNode {
 };
 
 struct ListNode* sortList(struct ListNode* head){
-    // merge sort
+    
 }
