@@ -42,9 +42,9 @@
 - [3Sum(DONE)](https://leetcode.com/problems/3sum/)
 - [3Sum Closest(DONE)](https://leetcode.com/problems/3sum-closest/)
 - [4Sum(DONE)](https://leetcode.com/problems/4sum/)
-- [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
-- [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [Group Anagrams(DONE)](https://leetcode.com/problems/group-anagrams/)
+- [Merge Intervals(DONE)](https://leetcode.com/problems/merge-intervals/)
+- [Sort Colors(DONE)](https://leetcode.com/problems/sort-colors/)
 - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
 - [Sort List](https://leetcode.com/problems/sort-list/)
 - [Largest Number](https://leetcode.com/problems/largest-number/)
@@ -53,4 +53,4 @@
 - [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 
 ## Hard
-- [First missing Positive](https://leetcode.com/problems/first-missing-positive/)
+- [First missing Positive(DONE)](https://leetcode.com/problems/first-missing-positive/)
