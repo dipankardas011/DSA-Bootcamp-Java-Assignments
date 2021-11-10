@@ -22,6 +22,7 @@
 - [Fair Candy Swap(DONE)](https://leetcode.com/problems/fair-candy-swap/)
 - [Check If N and Its Double Exist(DONE)](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
 - [Special Array With X Elements Greater Than or Equal X(DONE)](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
+- [Binary Search(DONE)](https://leetcode.com/problems/binary-search/)
 
 ## Medium
 - [Find First and Last Position of Element in Sorted Array(DONE)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
