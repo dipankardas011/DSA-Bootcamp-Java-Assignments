@@ -4,14 +4,14 @@ Print these patterns using loops:
 
 ```text
 
-1.  *****
+1.  *****(DONE)
     *****
     *****
     *****
     *****
 
 
-2.  *
+2.  *(DONE)
     **
     ***
     ****
@@ -22,17 +22,17 @@ Print these patterns using loops:
     ****
     ***
     **
-    *
+    *(DONE)
 
 
-4.  1
+4.  1(DONE)
     1 2
     1 2 3
     1 2 3 4
     1 2 3 4 5
 
 
-5.  *
+5.  *(DONE)
     **
     ***
     ****
@@ -43,14 +43,14 @@ Print these patterns using loops:
     *
 
 
-6.       *
+6.       *(DONE)
         **
        ***
       ****
      *****
 
 
-7.   *****
+7.   *****(DONE)
       ****
        ***
         **
@@ -59,19 +59,19 @@ Print these patterns using loops:
 
 8.      *
        ***
-      *****
+      *****(DONE)
      *******
     *********
 
 
-9.  *********
+9.  *********(DONE)
      *******
       *****
        ***
         *
 
 
-10.      *
+10.      *(DONE)
         * *
        * * *
       * * * *
@@ -79,7 +79,7 @@ Print these patterns using loops:
 
 
 11.  * * * * *
-      * * * *
+      * * * *(DONE)
        * * *
         * *
          *
@@ -87,7 +87,7 @@ Print these patterns using loops:
 
 12.  * * * * *
       * * * *
-       * * *
+       * * *(DONE)
         * *
          *
          *
@@ -101,10 +101,10 @@ Print these patterns using loops:
         * *
        *   *
       *     *
-     *********
+     *********(DONE)
 
 
-14.  *********
+14.  *********(DONE)
       *     *
        *   *
         * *
@@ -115,14 +115,14 @@ Print these patterns using loops:
         * *
        *   *
       *     *
-     *       *
+     *       *(DONE)
       *     *
        *   *
         * *
          *
 
 
-16.           1
+16.           1(DONE)
             1   1
           1   2   1
         1   3   3   1
@@ -132,7 +132,7 @@ Print these patterns using loops:
 17.      1
         212
        32123
-      4321234
+      4321234(DONE)
        32123
         212
          1
@@ -147,7 +147,7 @@ Print these patterns using loops:
       **      **
       ***    ***
       ****  ****
-      **********
+      **********(DONE)
 
 
 19.    *        *
@@ -157,13 +157,13 @@ Print these patterns using loops:
        **********
        ****  ****
        ***    ***
-       **      **
+       **      **(DONE)
        *        *
 
 
 20.    ****
        *  *
-       *  *
+       *  *(DONE)
        *  *
        ****
 
@@ -171,16 +171,16 @@ Print these patterns using loops:
        2  3
        4  5  6
        7  8  9  10
-       11 12 13 14 15
+       11 12 13 14 15(DONE)
 
-22.    1
+22.    1(DONE)
        0 1
        1 0 1
        0 1 0 1
        1 0 1 0 1
 
 23.        *      *
-         *   *  *   *
+         *   *  *   *(DONE)
        *      *      *
 
 24.    *        *
@@ -189,12 +189,12 @@ Print these patterns using loops:
        *  *  *  *
        *   **   *
        *   **   *
-       *  *  *  *
+       *  *  *  *(DONE)
        * *    * *
        **      **
        *        *
 
-25.       *****
+25.       *****(DONE)
          *   *
         *   *
        *   *
@@ -204,16 +204,16 @@ Print these patterns using loops:
       2 2 2 2 2
       3 3 3 3
       4 4 4
-      5 5
+      5 5(DONE)
       6
 
 27.   1 2 3 4  17 18 19 20
-        5 6 7  14 15 16
+        5 6 7  14 15 16(DONE)
           8 9  12 13
             10 11
 
 28.      *
-        * *
+        * *(DONE)
        * * *
       * * * *
      * * * * *
@@ -224,7 +224,7 @@ Print these patterns using loops:
 
 29.      
        *        *
-       **      **
+       **      **(DONE)
        ***    ***
        ****  ****
        **********
@@ -235,12 +235,12 @@ Print these patterns using loops:
 
 30.         1
           2 1 2
-        3 2 1 2 3
+        3 2 1 2 3(DONE)
       4 3 2 1 2 3 4
     5 4 3 2 1 2 3 4 5
 
 
-31.      4 4 4 4 4 4 4  
+31.      4 4 4 4 4 4 4  (DONE)
          4 3 3 3 3 3 4   
          4 3 2 2 2 3 4   
          4 3 2 1 2 3 4   
@@ -252,10 +252,10 @@ Print these patterns using loops:
        D E
        C D E
        B C D E
-       A B C D E
+       A B C D E(DONE)
 
 33.    a
-       B c
+       B c(DONE)
        D e F
        g H i J
        k L m N o
@@ -264,9 +264,9 @@ Print these patterns using loops:
        D C B A
        C B A
        B A
-       A
+       A(DONE)
        
-35.    1      1
+35.    1      1(DONE)
        12    21
        123  321
        12344321
