@@ -20,7 +20,7 @@
 - [Implement strStr()(DONE)](https://leetcode.com/problems/implement-strstr/)
 - [Long Pressed Name(DONE)](https://leetcode.com/problems/long-pressed-name/)
 - [Valid Palindrome(DONE)](https://leetcode.com/problems/valid-palindrome/)
-- [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+- [Valid Palindrome II(DONE)](https://leetcode.com/problems/valid-palindrome-ii/)
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
 - [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
