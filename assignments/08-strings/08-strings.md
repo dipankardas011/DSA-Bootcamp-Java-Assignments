@@ -17,9 +17,9 @@
 - [Robot Return to Origin(DONE)](https://leetcode.com/problems/robot-return-to-origin/)
 - [Reverse Words in a String III(DONE)](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 - [Excel Sheet Column Title(DONE)](https://leetcode.com/problems/excel-sheet-column-title/)
-- [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
-- [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
-- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [Implement strStr()(DONE)](https://leetcode.com/problems/implement-strstr/)
+- [Long Pressed Name(DONE)](https://leetcode.com/problems/long-pressed-name/)
+- [Valid Palindrome(DONE)](https://leetcode.com/problems/valid-palindrome/)
 - [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
@@ -28,7 +28,8 @@
 - [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
-## Medium 
+## Medium
+
 - [Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
 - [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)
 - [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/)
@@ -49,8 +50,7 @@
 - [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
 - [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
 
-
-## Hard 
+## Hard
 
 - [Valid Number](https://leetcode.com/problems/valid-number/)
 - [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
