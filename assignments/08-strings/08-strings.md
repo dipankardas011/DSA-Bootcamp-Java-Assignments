@@ -52,10 +52,10 @@
 
 ## Hard
 
-- [Valid Number](https://leetcode.com/problems/valid-number/)
-- [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
-- [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)
-- [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+- [Valid Number(DONE)](https://leetcode.com/problems/valid-number/)
+- [Regular Expression Matching(DONE)](https://leetcode.com/problems/regular-expression-matching/)
+- [Last Substring in Lexicographical Order(DONE)](https://leetcode.com/problems/last-substring-in-lexicographical-order/)
+- [Basic Calculator(DONE)](https://leetcode.com/problems/basic-calculator/)
 - [Minimum Number of Operations to Make String Sorted](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/)
 - [Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/)
 - [Orderly Queue](https://leetcode.com/problems/orderly-queue/)
