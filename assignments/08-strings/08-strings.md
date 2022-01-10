@@ -58,8 +58,8 @@
 - [Basic Calculator(DONE)](https://leetcode.com/problems/basic-calculator/)
 - [Minimum Number of Operations to Make String Sorted(REVIEW FOR LATER {DONE})](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/)
 - [Check If String Is Transformable With Substring Sort Operations(DONE)](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/)
-- [Orderly Queue](https://leetcode.com/problems/orderly-queue/)
-- [Special Binary String](https://leetcode.com/problems/special-binary-string/)
+- [Orderly Queue(DONE)](https://leetcode.com/problems/orderly-queue/)
+- [Special Binary String(DONE)](https://leetcode.com/problems/special-binary-string/)
 
 # Additionally
 
