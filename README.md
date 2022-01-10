@@ -1,16 +1,19 @@
 # from DSA-Bootcamp-Java with Kunal 
-the assignments
-list
- - [x] 01-flow-of-program.md
- - [x] 02-first-java.md
- - [x] 03-conditionals-loops.md
- - [x] 04-functions.md
- - [x] 05-arrays.md
- - [x] 06-searching.md
- - [ ] 07-sorting.md
- - [ ] 08-strings.md
- - [ ] 09-patterns.md
- - [ ] 10-recursion.md
- - [ ] 11-bitwise.md
- - [ ] 12-math.md
- - [ ] 13-complexities.md
+the assignments list
+
+ - [x] 01-flow-of-program
+ - [x] 02-first-java
+ - [x] 03-conditionals-loops
+ - [x] 04-functions
+ - [x] 05-arrays
+ - [x] 06-searching
+ - [x] 07-sorting
+ - [x] 08-strings
+ - [x] 09-patterns
+ - [ ] 10-recursion
+ - [ ] 11-bitwise
+ - [ ] 12-math
+ - [ ] 13-complexities
+ - [ ] 14-oop
+ - [ ] 15-linkedlist
+
