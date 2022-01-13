@@ -4,13 +4,11 @@
 # Problems
 
 ## Easy
-- [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`
-- [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`
-- [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG`
-- [Reverse String](https://leetcode.com/problems/reverse-string/) `leetcode`
-- [Print 1 To N Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1/) `GFG`
-- [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `leetcode`
-- [Special Fibonacci](https://www.codechef.com/problems/FIBXOR01/) `CodeChef`
+- [Sum Triangle from Array(DONE)](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`
+- [Maximum and Minimum value in an array(DONE)](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`
+- [First Uppercase Letter in a String(DONE)](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG`
+- [Reverse String(DONE)](https://leetcode.com/problems/reverse-string/) `leetcode`
+- [Fibonacci Number(DONE)](https://leetcode.com/problems/fibonacci-number/) `leetcode`
 - [Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) `GFG`
 - [Geek-onacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/) `GFG`
 - [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/) `GFG`
