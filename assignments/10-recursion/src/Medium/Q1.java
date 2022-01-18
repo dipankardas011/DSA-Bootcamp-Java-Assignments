@@ -5,30 +5,38 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Q1 {
-    public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> list=  new ArrayList<>();
-        Arrays.sort(candidates);
-        backTrack(list, new ArrayList<>(), candidates, target, target);
-        return list;
+
+    private void utility(
+            List<List<Integer>> list, List<Integer> temp,
+            int[] num, int remain, int start
+    ){
+        if (remain<0)
+            return;
+        if (remain == 0) {
+            list.add(new ArrayList<>(temp));
+            return;
+        }
+
+        for (int i = start; i < num.length; i++) {
+            temp.add(num[i]);
+            utility(list,temp,num,remain-num[i],i);
+            temp.remove(temp.size()-1);
+        }
     }
 
-    private void backTrack(List<List<Integer>> l, List<Integer> t, int[] cand, int remain, int target) {
-        if (remain < 0)
-            return;
-        if (remain == 0 ){
-            l.add(new ArrayList<>(t));
-        }
-        else {
-            for (int j : cand) {
-                t.add(j);
-                backTrack(l, t, cand, target - j, j);
-                t.remove(t.size() - 1);
-            }
-        }
+    public List<List<Integer>> combinationSum(int[] arr,
+                                              int target) {
+        List<List<Integer>> list = new ArrayList<>();
+
+        Arrays.sort(arr);
+        utility(list,new ArrayList<>(),arr,target,0);
+
+        return list;
     }
 
     public static void main(String[] args) {
         Q1 o = new Q1();
-        System.out.println(o.combinationSum(new int[]{2,3,5}, 8));
+        System.out.println(o.combinationSum(new int[]{2,3,5},
+                8));
     }
 }
