@@ -37,7 +37,7 @@
 - [Combination Sum(DONE)](https://leetcode.com/problems/combination-sum/) `leetcode`
 - [Word Search(DONE)](https://leetcode.com/problems/word-search/) `leetcode`
 - [Target sum(DONE)](https://leetcode.com/problems/target-sum/) `leetcode`
-- [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
+- [Find Kth Bit in Nth Binary String(DONE)](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
 - [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
 - [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
 - [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`
@@ -46,8 +46,8 @@
 - [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG`
 - [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium)
 - [Divisible Subset](https://www.codechef.com/problems/DIVSUBS)  `Codechef`
-- [Perfect squares](https://leetcode.com/problems/perfect-squares/)`leetcode`
-- [decode string](https://leetcode.com/problems/decode-string/)`leetcode`
+- [Perfect squares](https://leetcode.com/problems/perfect-squares/) `leetcode`
+- [decode string](https://leetcode.com/problems/decode-string/) `leetcode`
 - [find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) `leetcode`
 - [Different ways to add parantheses in the expression](https://leetcode.com/problems/different-ways-to-add-parentheses/) `leetcode`
 - [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) `leetcode`
