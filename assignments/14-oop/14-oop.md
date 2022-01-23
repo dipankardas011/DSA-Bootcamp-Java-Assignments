@@ -1,21 +1,21 @@
 # Important Topics
 
-- [Kunal's notes](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/lectures/17-oop/notes)
-- [Object Oriented Paradigms](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/) `GFG`
-- [Constructors in Java](https://www.geeksforgeeks.org/constructors-in-java/) `GFG`
-- [Constructor chaining in Java](https://www.geeksforgeeks.org/constructor-chaining-java-examples/) `GFG`
-- [Inheritance in Java](https://www.geeksforgeeks.org/inheritance-in-java/) `GFG`
-- [Overriding in Java](https://www.geeksforgeeks.org/overriding-in-java/) `GFG`
-- [Abstraction in Java](https://www.geeksforgeeks.org/abstraction-in-java-2/) `GFG`
-- [Access modifiers in Java](https://www.geeksforgeeks.org/access-modifiers-java/) `GFG`
-- [Wrapper Classes in Java](https://www.geeksforgeeks.org/wrapper-classes-java/) `GFG`
-- [Need of wrapper classes in Java](https://www.geeksforgeeks.org/need-of-wrapper-classes-in-java/) `GFG`
-- [this keyowrd in Java](https://www.javatpoint.com/this-keyword) `Javatpoint`
-- [Important keyowrds in Java inheritance - extends,implements,super,instanceof](https://www.tutorialspoint.com/java/java_inheritance.htm) `Tutorialspoint`
-- [Instance initializer block](https://www.javatpoint.com/instance-initializer-block) `Javatpoint`
-- [Dynamic Method Dispatch or Runtime Polymorphism in Java](https://www.geeksforgeeks.org/dynamic-method-dispatch-runtime-polymorphism-java/) `GFG`
-- [Cohesion in Java](https://www.geeksforgeeks.org/cohesion-in-java/) `GFG`
-- [Coupling in Java](https://www.geeksforgeeks.org/coupling-in-java/) `GFG`
+- [Kunal's notes(DONE)](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/lectures/17-oop/notes)
+- [Object Oriented Paradigms(DONE)](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/) `GFG`
+- [Constructors in Java(DONE)](https://www.geeksforgeeks.org/constructors-in-java/) `GFG`
+- [Constructor chaining in Java(DONE)](https://www.geeksforgeeks.org/constructor-chaining-java-examples/) `GFG`
+- [Inheritance in Java(DONE)](https://www.geeksforgeeks.org/inheritance-in-java/) `GFG`
+- [Overriding in Java(DONE)](https://www.geeksforgeeks.org/overriding-in-java/) `GFG`
+- [Abstraction in Java(DONE)](https://www.geeksforgeeks.org/abstraction-in-java-2/) `GFG`
+- [Access modifiers in Java(DONE)](https://www.geeksforgeeks.org/access-modifiers-java/) `GFG`
+- [Wrapper Classes in Java](DONE)(https://www.geeksforgeeks.org/wrapper-classes-java/) `GFG`
+- [Need of wrapper classes in Java(DONE)](https://www.geeksforgeeks.org/need-of-wrapper-classes-in-java/) `GFG`
+- [this keyowrd in Java(DONE)](https://www.javatpoint.com/this-keyword) `Javatpoint`
+- [Important keyowrds in Java inheritance - extends,implements,super,instanceof(DONE)](https://www.tutorialspoint.com/java/java_inheritance.htm) `Tutorialspoint`
+- [Instance initializer block(DONE)](https://www.javatpoint.com/instance-initializer-block) `Javatpoint`
+- [Dynamic Method Dispatch or Runtime Polymorphism in Java(DONE)](https://www.geeksforgeeks.org/dynamic-method-dispatch-runtime-polymorphism-java/) `GFG`
+- [Cohesion in Java(DONE)](https://www.geeksforgeeks.org/cohesion-in-java/) `GFG`
+- [Coupling in Java(DONE)](https://www.geeksforgeeks.org/coupling-in-java/) `GFG`
 
 # Interview Questions
 - [Can we declare main() method as private or protected or with no access modifier in java?](https://www.tutorialspoint.com/can-we-declare-main-method-as-private-or-protected-or-with-no-access-modifier-in-java) `Tutorialspoint`
