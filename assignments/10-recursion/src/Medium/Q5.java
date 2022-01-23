@@ -2,23 +2,26 @@ package Medium;
 
 public class Q5 {
     /**
-     * The L_th number in row N-1 will generate 2 numbers in row N at position 2L and 2L+1
-     * Note the pattern given in the problem 0 -> 01, 1->10.
-     * This means the first digit will always stay the same, and the second digit will flip between 0 and 1
-     * Now looking backward, our K could be 2L or 2L+1
-     * If K is 2L, we know it'll take the same value as L in row N-1.
-     * If K is 2L+1, it'll take the flipped value
-     * keep doing this x times until we hit the initial value of 0 in row 1.
-     * During this x times of recursion, say there are y times where K is odd. Those are the times when the value flipped between 0 and 1
-     * so the end result is the initial value 0, flipped y times
-     * Now going from K (2L or 2L+1) to L, is really just right shifting K by 1 bit
-     * Before you shift, check if the least significant bit of K is 1, if so, record one occurrence of an odd number
-     * essentially this is the same as counting the number of 1's in K's binary representation
+     * TODO please understand the logic
+     *
+     * The whole structure can be viewed a binary tree, when a node is 0,
+     * their two children nodes are 0 and 1, similarly, when a node is 1,
+     * two children nodes are 1 and 0. We can know whether the position of K
+     * is a left node or a right node by dividing 2. If K is even, current
+     * node is right child, and its parent is the (K/2)th node in previous row;
+     * else if K is odd, current node is left child and its parent is the ((K+1)/2)th node in previous row.
+     * The value of current node depends on its parent node, without knowing its
+     * parent node value, we still cannot determine current node value. That's
+     * why we need recursion, we keep going previous row to find the parent node until
+     * reach the first row. Then all the parent node value will be determined after the recursion function returns.
      */
     public int kthGrammar(int n, int k) {
         if (n == 1)
             return 0;
-        return (k - 1 + kthGrammar(n-1,(k+1) >> 1))%2;
+        if ((k&1) == 1)
+            return (kthGrammar(n-1, (k+1)/2) == 0) ? 0 : 1;
+        else
+            return (kthGrammar(n-1, k/2) == 0) ? 1 : 0;
     }
 
     public static void main(String[] args) {
