@@ -18,17 +18,17 @@
 - [Coupling in Java(DONE)](https://www.geeksforgeeks.org/coupling-in-java/) `GFG`
 
 # Interview Questions
-- [Can we declare main() method as private or protected or with no access modifier in java?](https://www.tutorialspoint.com/can-we-declare-main-method-as-private-or-protected-or-with-no-access-modifier-in-java) `Tutorialspoint`
-- [Difference between Method Overloading and Method Overriding in Java?](https://www.geeksforgeeks.org/difference-between-method-overloading-and-method-overriding-in-java/) `GFG`
-- [Can we declare interface members as private or protected in java8?](https://www.tutorialspoint.com/can-we-declare-interface-members-as-private-or-protected-in-java8) `Tutorialspoint`
-- [Can we override a private or static method in Java?](https://www.tutorialspoint.com/can-we-override-a-private-or-static-method-in-java) `Tutorialspoint`
-- [What is diamond problem in Java?](https://www.javatpoint.com/what-is-diamond-problem-in-java) `Javatpoint`
-- [Can we pass this keyword as argument in a method call?](https://www.javatpoint.com/this-keyword#:~:text=this%3A%20to%20pass%20as%20an%20argument%20in%20the%20method) `Javatpoint`
-- [Java constructor returns a value, but what?](https://www.javatpoint.com/java-constructor-returns-a-value-but-what) `Javatpoint`
-- [What is covariant return type?](https://www.javatpoint.com/covariant-return-type) `Javatpoint`
-- [Private classes and singleton classes in Java](https://www.geeksforgeeks.org/private-constructors-and-singleton-classes-in-java/) `GFG`
-- [How to prevent Singleton Pattern from Reflection, Serialization and Cloning?](https://www.geeksforgeeks.org/prevent-singleton-pattern-reflection-serialization-cloning/) `GFG`
-- [Double-Check Locking For Singleton Class](https://www.geeksforgeeks.org/java-program-to-demonstrate-the-double-check-locking-for-singleton-class/) `GFG`
+- [Can we declare main() method as private or protected or with no access modifier in java?(DONE)](https://www.tutorialspoint.com/can-we-declare-main-method-as-private-or-protected-or-with-no-access-modifier-in-java) `Tutorialspoint`
+- [Difference between Method Overloading and Method Overriding in Java?(DONE)](https://www.geeksforgeeks.org/difference-between-method-overloading-and-method-overriding-in-java/) `GFG`
+- [Can we declare interface members as private or protected in java8?(DONE)](https://www.tutorialspoint.com/can-we-declare-interface-members-as-private-or-protected-in-java8) `Tutorialspoint`
+- [Can we override a private or static method in Java?(DONE)](https://www.tutorialspoint.com/can-we-override-a-private-or-static-method-in-java) `Tutorialspoint`
+- [What is diamond problem in Java?(DONE)](https://www.javatpoint.com/what-is-diamond-problem-in-java) `Javatpoint`
+- [Can we pass this keyword as argument in a method call?(DONE)](https://www.javatpoint.com/this-keyword#:~:text=this%3A%20to%20pass%20as%20an%20argument%20in%20the%20method) `Javatpoint`
+- [Java constructor returns a value, but what?(DONE)](https://www.javatpoint.com/java-constructor-returns-a-value-but-what) `Javatpoint`
+- [What is covariant return type?(DONE)](https://www.javatpoint.com/covariant-return-type) `Javatpoint`
+- [Private classes and singleton classes in Java(DONE)](https://www.geeksforgeeks.org/private-constructors-and-singleton-classes-in-java/) `GFG`
+- [How to prevent Singleton Pattern from Reflection, Serialization and Cloning?(**IMPORTANT**)](https://www.geeksforgeeks.org/prevent-singleton-pattern-reflection-serialization-cloning/) `GFG`
+- [Double-Check Locking For Singleton Class(**IMPORTANT**)](https://www.geeksforgeeks.org/java-program-to-demonstrate-the-double-check-locking-for-singleton-class/) `GFG`
 
 # Practice Problems
 - [Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem?isFullScreen=true) `HackerRank`
