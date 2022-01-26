@@ -31,7 +31,7 @@
 - [Double-Check Locking For Singleton Class(**IMPORTANT**)](https://www.geeksforgeeks.org/java-program-to-demonstrate-the-double-check-locking-for-singleton-class/) `GFG`
 
 # Practice Problems
-- [Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem?isFullScreen=true) `HackerRank`
+- [Inheritance I(DONE)](https://www.hackerrank.com/challenges/java-inheritance-1/problem?isFullScreen=true) `HackerRank`
 - [Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem?isFullScreen=true) `HackerRank`
 - [Java Abstract class](https://www.hackerrank.com/challenges/java-abstract-class/problem?isFullScreen=true) `HackerRank`
 - [Interface](https://www.hackerrank.com/challenges/java-interface/problem?isFullScreen=true) `HackerRank`
