@@ -43,10 +43,10 @@
 - [N Digit numbers with digits in increasing order(DONE)](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`
 - [Pow(x, n)(DONE)](https://leetcode.com/problems/powx-n/) `leetcode`
 - [Minimum Non-Zero Product of the Array Elements(*TODO*)](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
-- [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG`
+- [Handshakes(DONE)](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG`
 - [HackerRank(DONE)](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium)
-- [Divisible Subset](https://www.codechef.com/problems/DIVSUBS)  `Codechef`
-- [Perfect squares](https://leetcode.com/problems/perfect-squares/) `leetcode`
+- [Divisible Subset(*TODO*)](https://www.codechef.com/problems/DIVSUBS)  `Codechef`
+- [Perfect squares(DONE)](https://leetcode.com/problems/perfect-squares/) `leetcode`
 - [decode string](https://leetcode.com/problems/decode-string/) `leetcode`
 - [find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) `leetcode`
 - [Different ways to add parantheses in the expression](https://leetcode.com/problems/different-ways-to-add-parentheses/) `leetcode`
