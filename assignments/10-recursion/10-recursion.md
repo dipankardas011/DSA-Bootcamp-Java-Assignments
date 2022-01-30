@@ -48,9 +48,9 @@
 - [Divisible Subset(*TODO*)](https://www.codechef.com/problems/DIVSUBS)  `Codechef`
 - [Perfect squares(DONE)](https://leetcode.com/problems/perfect-squares/) `leetcode`
 - [decode string(DONE)](https://leetcode.com/problems/decode-string/) `leetcode`
-- [find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) `leetcode`
-- [Different ways to add parantheses in the expression](https://leetcode.com/problems/different-ways-to-add-parentheses/) `leetcode`
-- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) `leetcode`
+- [find the winner of the circular game(DONE)](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) `leetcode`
+- [Different ways to add parantheses in the expression(DONE)](https://leetcode.com/problems/different-ways-to-add-parentheses/) `leetcode`
+- [Letter Combinations of a Phone Number(DONE)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) `leetcode`
 - [Predict the winner.](https://leetcode.com/problems/predict-the-winner/) `leetcode`
 - [Gray code](https://practice.geeksforgeeks.org/problems/gray-code-1611215248/1/) `GFG` `Google`
 - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `leetcode`
