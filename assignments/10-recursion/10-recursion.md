@@ -52,9 +52,9 @@
 - [Different ways to add parantheses in the expression(DONE)](https://leetcode.com/problems/different-ways-to-add-parentheses/) `leetcode`
 - [Letter Combinations of a Phone Number(DONE)](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) `leetcode`
 - [Predict the winner.(DONE)](https://leetcode.com/problems/predict-the-winner/) `leetcode`
-- [Gray code](https://practice.geeksforgeeks.org/problems/gray-code-1611215248/1/) `GFG` `Google`
-- [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `leetcode`
-- [combination Sum III](https://leetcode.com/problems/combination-sum-iii/) `leetcode`
+- [Gray code(DONE)](https://practice.geeksforgeeks.org/problems/gray-code-1611215248/1/) `GFG` `Google`
+- [Combination Sum II(DONE)](https://leetcode.com/problems/combination-sum-ii/) `leetcode`
+- [combination Sum III(DONE)](https://leetcode.com/problems/combination-sum-iii/) `leetcode`
 - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `leetcode`
 - [Letter tile possibilities](https://leetcode.com/problems/letter-tile-possibilities/) `leetcode`
 - [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) `leetcode`
