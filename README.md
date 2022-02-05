@@ -13,7 +13,7 @@ the assignments list
  - [ ] 10-recursion
  - [ ] 11-bitwise
  - [ ] 12-math
- - [ ] 13-complexities
- - [ ] 14-oop
+ - [x] 13-complexities
+ - [x] 14-oop
  - [ ] 15-linkedlist
 
