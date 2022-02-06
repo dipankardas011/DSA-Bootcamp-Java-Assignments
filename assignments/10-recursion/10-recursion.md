@@ -57,8 +57,8 @@
 - [combination Sum III(DONE)](https://leetcode.com/problems/combination-sum-iii/) `leetcode`
 - [Sudoku Solver(DONE)](https://leetcode.com/problems/sudoku-solver/) `leetcode`
 - [Letter tile possibilities(DONE)](https://leetcode.com/problems/letter-tile-possibilities/) `leetcode`
-- [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) `leetcode`
-- [Sort a stack using recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/) `GFG`
+- [All Paths From Source to Target(DONE)](https://leetcode.com/problems/all-paths-from-source-to-target/) `leetcode`
+- [Sort a stack using recursion(DONE)](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/) `GFG`
 - [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/) `GFG`
 - [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) `leetcode`
 - [Lowest Common Ancestor of a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1/) `GFG` `Amex`
