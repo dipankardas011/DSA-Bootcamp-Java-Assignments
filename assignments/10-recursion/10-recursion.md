@@ -59,8 +59,8 @@
 - [Letter tile possibilities(DONE)](https://leetcode.com/problems/letter-tile-possibilities/) `leetcode`
 - [All Paths From Source to Target(DONE)](https://leetcode.com/problems/all-paths-from-source-to-target/) `leetcode`
 - [Sort a stack using recursion(DONE)](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/) `GFG`
-- [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/) `GFG`
-- [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) `leetcode`
+- [Reverse a stack using recursion(DONE)](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/) `GFG`
+- [Beautiful Arrangement(DONE)](https://leetcode.com/problems/beautiful-arrangement/) `leetcode`
 - [Lowest Common Ancestor of a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1/) `GFG` `Amex`
 - [Prime numbers after prime P with sum S](https://www.geeksforgeeks.org/prime-numbers-after-prime-p-with-sum-s/) `GFG`
 - [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) `leetcode`
