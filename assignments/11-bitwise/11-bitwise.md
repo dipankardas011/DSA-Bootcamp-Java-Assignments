@@ -8,7 +8,7 @@
 - [Reverse Bits(DONE)](https://leetcode.com/problems/reverse-bits/)
 - [Number of 1 Bits(DONE)](https://leetcode.com/problems/number-of-1-bits/)
 - [Counting Bits(DONE)](https://leetcode.com/problems/counting-bits/)
-- [Binary Watch](https://leetcode.com/problems/binary-watch/)
+- [Binary Watch(DONE)](https://leetcode.com/problems/binary-watch/)
 - [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 - [Number Complement](https://leetcode.com/problems/number-complement/)
 - [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
