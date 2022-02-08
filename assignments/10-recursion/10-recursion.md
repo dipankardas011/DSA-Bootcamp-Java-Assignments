@@ -61,7 +61,7 @@
 - [Sort a stack using recursion(DONE)](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/) `GFG`
 - [Reverse a stack using recursion(DONE)](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/) `GFG`
 - [Beautiful Arrangement(DONE)](https://leetcode.com/problems/beautiful-arrangement/) `leetcode`
-- [Lowest Common Ancestor of a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1/) `GFG` `Amex`
+- [Lowest Common Ancestor of a Binary Tree(DONE)](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1/) `GFG` `Amex`
 - [Prime numbers after prime P with sum S](https://www.geeksforgeeks.org/prime-numbers-after-prime-p-with-sum-s/) `GFG`
 - [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) `leetcode`
 - [Longest Possible Route in a Matrix with Hurdles](https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/) `GFG`
