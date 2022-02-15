@@ -12,11 +12,12 @@ public class Q3 {
             fact *= i;
             num.add(i);
         }
-        for (int i = 0, l = k - 1; i < n; i++) {
+        k--;
+        for (int i = 0; i < n; i++) {
             fact /= (n - i);
-            int index = (l / fact);
+            int index = (k / fact);
             sb.append(num.remove(index));
-            l -= index * fact;
+            k -= index * fact;
         }
         return sb.toString();
     }
