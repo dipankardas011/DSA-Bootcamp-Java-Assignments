@@ -74,8 +74,8 @@
 - [Permutation Sequence(DONE)](https://leetcode.com/problems/permutation-sequence/) `leetcode`
 - [Next Happy Number(DONE)](https://practice.geeksforgeeks.org/problems/next-happy-number4538/1/) `GFG`
 - [Basic Calculator(DONE)](https://leetcode.com/problems/basic-calculator/) `leetcode`
-- [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) `leetcode`
-- [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) `leetcode`
+- [Integer to English Words(DONE)](https://leetcode.com/problems/integer-to-english-words/) `leetcode`
+- [Maximize Number of Nice Divisors(*UNDERSTAND*)](https://leetcode.com/problems/maximize-number-of-nice-divisors/) `leetcode`
 - [N Queens](https://leetcode.com/problems/n-queens/) `leetcode`
 - [N Queens II](https://leetcode.com/problems/n-queens-ii/) `leetcode`
 - [Word break II](https://leetcode.com/problems/word-break-ii/) `leetcode` `Google`
