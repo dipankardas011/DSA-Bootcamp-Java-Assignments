@@ -76,10 +76,10 @@
 - [Basic Calculator(DONE)](https://leetcode.com/problems/basic-calculator/) `leetcode`
 - [Integer to English Words(DONE)](https://leetcode.com/problems/integer-to-english-words/) `leetcode`
 - [Maximize Number of Nice Divisors(*UNDERSTAND*)](https://leetcode.com/problems/maximize-number-of-nice-divisors/) `leetcode`
-- [N Queens](https://leetcode.com/problems/n-queens/) `leetcode`
-- [N Queens II](https://leetcode.com/problems/n-queens-ii/) `leetcode`
-- [Word break II](https://leetcode.com/problems/word-break-ii/) `leetcode` `Google`
-- [Unique paths III](https://leetcode.com/problems/unique-paths-iii/) `leetcode`
+- [N Queens(DONE)](https://leetcode.com/problems/n-queens/) `leetcode`
+- [N Queens II(DONE)](https://leetcode.com/problems/n-queens-ii/) `leetcode`
+- [Word break II(*TODO*)](https://leetcode.com/problems/word-break-ii/) `leetcode` `Google`
+- [Unique paths III(DONE)](https://leetcode.com/problems/unique-paths-iii/) `leetcode`
 - [Find shortest safe route in a path with landmines](https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/) `GFG` `Google`
 - [Minimum steps to destination](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/) `GFG` `Amex` `Adobe`
 - [Hamiltonian Cycle](https://www.geeksforgeeks.org/hamiltonian-cycle-backtracking-6/) `GFG`
