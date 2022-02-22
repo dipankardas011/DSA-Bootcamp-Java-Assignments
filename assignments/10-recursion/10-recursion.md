@@ -80,7 +80,6 @@
 - [N Queens II(DONE)](https://leetcode.com/problems/n-queens-ii/) `leetcode`
 - [Word break II(*TODO*)](https://leetcode.com/problems/word-break-ii/) `leetcode` `Google`
 - [Unique paths III(DONE)](https://leetcode.com/problems/unique-paths-iii/) `leetcode`
-- [Find shortest safe route in a path with landmines](https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/) `GFG` `Google`
 - [Minimum steps to destination](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/) `GFG` `Amex` `Adobe`
 - [Hamiltonian Cycle](https://www.geeksforgeeks.org/hamiltonian-cycle-backtracking-6/) `GFG`
 - [M colorning problem](https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/) `GFG`
