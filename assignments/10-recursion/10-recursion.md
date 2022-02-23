@@ -82,8 +82,8 @@
 - [Unique paths III(DONE)](https://leetcode.com/problems/unique-paths-iii/) `leetcode`
   [Find shortest safe route in a path with landmines(DONE)](https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/) `GFG` `Google`
 - [Minimum steps to destination(DONE)](https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/) `GFG` `Amex` `Adobe`
-- [Hamiltonian Cycle](https://www.geeksforgeeks.org/hamiltonian-cycle-backtracking-6/) `GFG`
-- [M colorning problem](https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/) `GFG`
-- [The Knight's tour](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/) `GFG`
-- [Maximum number possible by doing at-most K swaps](https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/) `GFG`
+- [Hamiltonian Cycle(*TODO*)](https://www.geeksforgeeks.org/hamiltonian-cycle-backtracking-6/) `GFG`
+- [M colorning problem(*TODO*)](https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/) `GFG`
+- [The Knight's tour(DONE)](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/) `GFG`
+- [Maximum number possible by doing at-most K swaps(DONE)](https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/) `GFG`
 - [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard)
