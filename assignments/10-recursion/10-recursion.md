@@ -86,4 +86,3 @@
 - [M colorning problem(*TODO*)](https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/) `GFG`
 - [The Knight's tour(DONE)](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/) `GFG`
 - [Maximum number possible by doing at-most K swaps(DONE)](https://www.geeksforgeeks.org/find-maximum-number-possible-by-doing-at-most-k-swaps/) `GFG`
-- [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard)

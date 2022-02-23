@@ -10,9 +10,8 @@ the assignments list
  - [x] 07-sorting
  - [x] 08-strings
  - [x] 09-patterns
- - [ ] 10-recursion
- - [ ] 11-bitwise
- - [ ] 12-math
+ - [x] 10-recursion
+ - [ ] 11-bitwise & math
  - [x] 13-complexities
  - [x] 14-oop
  - [ ] 15-linkedlist
