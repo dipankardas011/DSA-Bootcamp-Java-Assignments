@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab7efa91-2e14-46ab-83d9-5339ba2c3926" name="Changes" comment="" />
+    <list default="true" id="ab7efa91-2e14-46ab-83d9-5339ba2c3926" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Easy/Q7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,9 +36,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Q6">
+  <component name="RunManager" selected="Application.Q7">
     <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.Q1" />
       <module name="11-bitwise" />
@@ -75,8 +78,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.Q7" />
+      <module name="11-bitwise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q7" />
         <item itemvalue="Application.Q6" />
         <item itemvalue="Application.Q5" />
         <item itemvalue="Application.Q1" />
@@ -93,6 +110,8 @@
       <updated>1642873539671</updated>
       <workItem from="1644171068657" duration="1108000" />
       <workItem from="1644241327760" duration="1731000" />
+      <workItem from="1645623375808" duration="63000" />
+      <workItem from="1646580646327" duration="926000" />
     </task>
     <servers />
   </component>

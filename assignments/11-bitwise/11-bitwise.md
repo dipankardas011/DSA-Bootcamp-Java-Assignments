@@ -9,7 +9,7 @@
 - [Number of 1 Bits(DONE)](https://leetcode.com/problems/number-of-1-bits/)
 - [Counting Bits(DONE)](https://leetcode.com/problems/counting-bits/)
 - [Binary Watch(DONE)](https://leetcode.com/problems/binary-watch/)
-- [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+- [Hamming Distance(DONE)](https://leetcode.com/problems/hamming-distance/)
 - [Number Complement](https://leetcode.com/problems/number-complement/)
 - [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 - [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
