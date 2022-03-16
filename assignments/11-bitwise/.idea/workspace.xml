@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab7efa91-2e14-46ab-83d9-5339ba2c3926" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q13.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q15.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q15.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q15.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q16.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q18.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Q19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/Q6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-bitwise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/11-bitwise.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/11-bitwise.md" beforeDir="false" afterPath="$PROJECT_DIR$/11-bitwise.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="Class" />
         <option value="Go File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -42,6 +36,11 @@
   <component name="GOROOT" url="file://C:/Program Files/Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="11-bitwise/invalid/Python" />
+    </ignored-facets>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -62,10 +61,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable..is.expanded" value="false" />
     <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
@@ -74,15 +75,18 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Go Build.go build Q18.go">
-    <configuration name="Q18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.Q18" />
+  <component name="RunManager" selected="Application.Q5">
+    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.Q1" />
       <module name="11-bitwise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Easy.*" />
+          <option name="PATTERN" value="Medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.Q19" />
+    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.Q2" />
       <module name="11-bitwise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Easy.*" />
+          <option name="PATTERN" value="Medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,37 +107,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="go build Q13.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.Q4" />
       <module name="11-bitwise" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/Easy/Q13.go" />
-      <method v="2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="go build Q16.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.Q5" />
       <module name="11-bitwise" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/Easy/Q16.go" />
-      <method v="2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="go build Q18.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Q19.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="11-bitwise" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/Easy/Q18.go" />
+      <filePath value="$PROJECT_DIR$/src/Easy/Q19.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build Q18.go" />
-        <item itemvalue="Application.Q19" />
-        <item itemvalue="Application.Q18" />
-        <item itemvalue="Go Build.go build Q16.go" />
-        <item itemvalue="Go Build.go build Q13.go" />
+        <item itemvalue="Application.Q5" />
+        <item itemvalue="Application.Q4" />
+        <item itemvalue="Application.Q2" />
+        <item itemvalue="Application.Q1" />
+        <item itemvalue="Go Build.go build Q19.go" />
       </list>
     </recent_temporary>
   </component>
@@ -152,12 +166,18 @@
       <workItem from="1647090866537" duration="37000" />
       <workItem from="1647159719947" duration="1209000" />
       <workItem from="1647251247305" duration="3608000" />
-      <workItem from="1647344090439" duration="7757000" />
+      <workItem from="1647344090439" duration="9463000" />
+      <workItem from="1647428071671" duration="249000" />
+      <workItem from="1647428345989" duration="6558000" />
+      <workItem from="1647434993889" duration="3232000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.facetType" implementationName="Python" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

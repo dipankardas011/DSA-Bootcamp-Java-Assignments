@@ -24,12 +24,12 @@
 - [Longest Nice Substring(DONE)](https://leetcode.com/problems/longest-nice-substring/)
 
 ## Medium
-- [Subsets](https://leetcode.com/problems/subsets/)
-- [Subsets II](https://leetcode.com/problems/subsets-ii/)
-- [Single Number II](https://leetcode.com/problems/single-number-ii/)
-- [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
-- [Gray Code](https://leetcode.com/problems/gray-code/)
-- [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+- [Subsets(DONE)](https://leetcode.com/problems/subsets/)
+- [Subsets II(DONE)](https://leetcode.com/problems/subsets-ii/)
+- [Single Number II(*UNDERSTAND*)](https://leetcode.com/problems/single-number-ii/)
+- [Divide Two Integers(DONE)](https://leetcode.com/problems/divide-two-integers/)
+- [Gray Code(DONE)](https://leetcode.com/problems/gray-code/)
+- [Repeated DNA Sequences(DONE)](https://leetcode.com/problems/repeated-dna-sequences/)
 
 ## Hard
 - [Minimum Number of Flips to onvert Binary Matrix to zero matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/)
