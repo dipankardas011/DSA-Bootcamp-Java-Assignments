@@ -11,8 +11,8 @@ the assignments list
  - [x] 08-strings
  - [x] 09-patterns
  - [x] 10-recursion
- - [ ] 11-bitwise & math
+ - [x] 11-bitwise & math
  - [x] 13-complexities
  - [x] 14-oop
  - [ ] 15-linkedlist
-
+ - [ ] 16-queue&stack
