@@ -13,6 +13,13 @@ public class LinkList {
         return head;
     }
 
+    public void setHead(ListNode x) {
+        this.head = x;
+    }
+    public void setTail(ListNode x) {
+        this.tail = x;
+    }
+
 
 
     protected class ListNode {
@@ -65,6 +72,15 @@ public class LinkList {
             temp = temp.next;
         }
         System.out.println("END");
+    }
+
+    public LinkList copyLinkList(ListNode src) {
+        LinkList dest = new LinkList();
+        while (src != null) {
+            dest.push(src.value);
+            src = src.next;
+        }
+        return dest;
     }
 
 }
