@@ -20,8 +20,6 @@ public class LinkList {
         this.tail = x;
     }
 
-
-
     protected class ListNode {
         public int value;
         public ListNode next;
@@ -34,12 +32,8 @@ public class LinkList {
             this.value = value;
             this.next = next;
         }
-//        public ListNode getNext() {
-//            return head.next;
-//        }
-//        public int getVal() {
-//            return head.value;
-//        }
+
+        public ListNode() {}
     }
     public void pushAtFront(int val) {
         ListNode node = new ListNode(val);
