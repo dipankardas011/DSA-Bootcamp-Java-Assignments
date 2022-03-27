@@ -7,7 +7,7 @@
 - [Merge Two Sorted Lists(DONE)](https://leetcode.com/problems/merge-two-sorted-lists/) `leetcode`
 - [Delete Node in a Linked List(DONE)](https://leetcode.com/problems/delete-node-in-a-linked-list/) `leetcode`
 - [Palindrome Linked List(DONE)](https://leetcode.com/problems/palindrome-linked-list/) `leetcode` `Snapdeal`
-- [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) `leetcode`
+- [Intersection of Two Linked Lists(DONE)](https://leetcode.com/problems/intersection-of-two-linked-lists/) `leetcode`
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `leetcode` `Samsung`
 - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) `leetcode`
 - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) `leetcode`
