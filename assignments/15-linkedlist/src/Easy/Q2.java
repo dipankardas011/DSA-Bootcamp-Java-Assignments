@@ -2,8 +2,6 @@ package Easy;
 
 import construct.LinkList;
 
-import javax.swing.event.ListDataListener;
-
 public class Q2 extends LinkList {
 
     /**
