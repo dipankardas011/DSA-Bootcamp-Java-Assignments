@@ -12,7 +12,6 @@
  * If the score reaches 40-40 a deuce is called the WInner if the next point is awarded "Advantage"
  * and can then win the game by taking the next point or be brought back to deuce if their opponent score
  * there is no limit in the rules to the number of times players can tie at deuce
- *
  * without a deuce if the player scores a point after reaching 40(i.e. if the opponent has
  * 30 or less) the player scoring the point wins the game
  *
