@@ -22,7 +22,7 @@
 - [Add Two Numbers II(DONE)](https://leetcode.com/problems/add-two-numbers-ii/) `leetcode`
 - [Linked List Cycle II(DONE)](https://leetcode.com/problems/linked-list-cycle-ii/) `leetcode`
 - ![](https://assets.leetcode.com/uploads/2021/11/09/flatten11.jpg)[Flatten a Multilevel Doubly Linked List(DONE)](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) `leetcode` `Amazon`
-- [Rotate List](https://leetcode.com/problems/rotate-list/) `leetcode` `Microsoft`
+- [Rotate List(DONE)](https://leetcode.com/problems/rotate-list/) `leetcode` `Microsoft`
 - [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) `leetcode`
 - [LRU Cache](https://leetcode.com/problems/lru-cache/) `leetcode`
 - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) `leetcode` `Amex`
