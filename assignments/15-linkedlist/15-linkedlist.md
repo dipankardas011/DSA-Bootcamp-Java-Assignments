@@ -25,8 +25,29 @@
 - [Rotate List(DONE)](https://leetcode.com/problems/rotate-list/) `leetcode` `Microsoft`
 - [Copy List with Random Pointer(DONE)](https://leetcode.com/problems/copy-list-with-random-pointer/) `leetcode`
 - [LRU Cache(DONE)](https://leetcode.com/problems/lru-cache/) `leetcode`
-- [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) `leetcode` `Amex`
-- [Design Browser History](https://leetcode.com/problems/design-browser-history/) `leetcode`
+- [Remove Duplicates from Sorted List II(DONE)](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) `leetcode` `Amex`
+- [Design Browser History(DONE)](https://leetcode.com/problems/design-browser-history/) `leetcode`
+```md
+# Notes
+push from head 
+curr pointer different pointer
+after adding lindkedin curr will move threrr
+
+back (front -> rear) _going to past_
+forward(rear -> front) _comming to present_
+
+**front** [present]
+
+linkedin 
+														!youtube!
+facebook<~~~~
+google
+leetcode
+
+**rear**
+
+visit() if it is not the head then remove all the nodes before it
+```
 - [Partition list](https://leetcode.com/problems/partition-list/) `leetcode`
 - [Find first node of loop in a linked list](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/) `GFG`
 - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) `leetcode`
