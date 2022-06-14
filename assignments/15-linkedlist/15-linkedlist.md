@@ -48,7 +48,7 @@ leetcode
 
 visit() if it is not the head then remove all the nodes before it
 ```
-- [Partition list](https://leetcode.com/problems/partition-list/) `leetcode`
+- [Partition list(DONE)](https://leetcode.com/problems/partition-list/) `leetcode`
 - [Find first node of loop in a linked list](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/) `GFG`
 - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) `leetcode`
 
