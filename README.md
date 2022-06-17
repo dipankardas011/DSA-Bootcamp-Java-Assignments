@@ -14,6 +14,6 @@ the assignments list
  - [x] 11-bitwise & math
  - [x] 13-complexities
  - [x] 14-oop
- - [ ] 15-linkedlist
+ - [x] 15-linkedlist
  - [ ] 16-queue&stack
  - [-] OtherSrc

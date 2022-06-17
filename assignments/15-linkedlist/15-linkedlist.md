@@ -53,9 +53,9 @@ visit() if it is not the head then remove all the nodes before it
 - [Swap Nodes in Pairs(DONE)](https://leetcode.com/problems/swap-nodes-in-pairs/) `leetcode`
 
 ## Hard
-- [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) `leetcode`
-- [LFU Cache](https://leetcode.com/problems/lfu-cache/) `leetcode` `Google`
-- [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) `leetcode`
-- [Clone a linked list with next and random pointer](https://www.geeksforgeeks.org/clone-linked-list-next-random-pointer-o1-space/) `GFG` `Google` `Flipkart`
-- [All O'one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) `leetcode`
-- [Design Skiplist](https://leetcode.com/problems/design-skiplist/) `leetcode`
+- [Reverse Nodes in k-Group(DONE)](https://leetcode.com/problems/reverse-nodes-in-k-group/) `leetcode`
+- [LFU Cache(DONE)](https://leetcode.com/problems/lfu-cache/) `leetcode` `Google`
+- [Merge k Sorted Lists(DONE)](https://leetcode.com/problems/merge-k-sorted-lists/) `leetcode`
+- [Clone a linked list with next and random pointer(ABOVE)](https://www.geeksforgeeks.org/clone-linked-list-next-random-pointer-o1-space/) `GFG` `Google` `Flipkart`
+- [All O'one Data Structure(*TODO*)](https://leetcode.com/problems/all-oone-data-structure/) `leetcode`
+- [Design Skiplist(*TODO*)](https://leetcode.com/problems/design-skiplist/) `leetcode`
