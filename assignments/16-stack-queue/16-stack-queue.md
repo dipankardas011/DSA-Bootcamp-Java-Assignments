@@ -1,12 +1,12 @@
 # Problems
 
 ## Easy
-- [Next greater element I](https://leetcode.com/problems/next-greater-element-i/) `leetcode`
-- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `leetcode`
-- [Min Stack](https://leetcode.com/problems/min-stack/) `leetcode`
-- [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) `leetcode`
-- [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) `leetcode`
-- [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) `leetcode`
+- [Next greater element I(DONE)](https://leetcode.com/problems/next-greater-element-i/) `leetcode`
+- [Valid Parentheses(DONE)](https://leetcode.com/problems/valid-parentheses/) `leetcode`
+- [Min Stack(DONE)](https://leetcode.com/problems/min-stack/) `leetcode`
+- [Remove Outermost Parentheses(DONE)](https://leetcode.com/problems/remove-outermost-parentheses/) `leetcode`
+- [Remove All Adjacent Duplicates In String(DONE)](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) `leetcode`
+- [Number of Recent Calls(DONE)](https://leetcode.com/problems/number-of-recent-calls/) `leetcode`
 - [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1/) `GFG`
 - [Delete middle element of a stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1/) `GFG`
 - [Inorder Traversal (Iterative)](https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/1/) `GFG`
