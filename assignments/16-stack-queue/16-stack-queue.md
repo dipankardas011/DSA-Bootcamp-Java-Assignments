@@ -14,7 +14,7 @@
 - [Flood fill(DONE)](https://leetcode.com/problems/flood-fill/) `leetcode`
 - [Implement Queue using Stacks(DONE)](https://leetcode.com/problems/implement-queue-using-stacks/) `leetcode`
 ## Medium
-- [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`
+- [Design a Stack With Increment Operation(DONE)](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`
 - [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) `leetcode`
 - [Decode String](https://leetcode.com/problems/decode-string/) `leetcode`
 - [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) `leetcode`
