@@ -15,11 +15,11 @@
 - [Implement Queue using Stacks(DONE)](https://leetcode.com/problems/implement-queue-using-stacks/) `leetcode`
 ## Medium
 - [Design a Stack With Increment Operation(DONE)](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`
-- [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) `leetcode`
-- [Decode String](https://leetcode.com/problems/decode-string/) `leetcode`
-- [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) `leetcode`
-- [132 Pattern](https://leetcode.com/problems/132-pattern/) `leetcode`
-- [Design circular Queue](https://leetcode.com/problems/design-circular-queue/) `leetcode`
+- [Minimum Add to Make Parentheses Valid(DONE)](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) `leetcode`
+- [Decode String(DONE)](https://leetcode.com/problems/decode-string/) `leetcode`
+- [Asteroid Collision(DONE)](https://leetcode.com/problems/asteroid-collision/) `leetcode`
+- [132 Pattern(DONE)](https://leetcode.com/problems/132-pattern/) `leetcode`
+- [Design circular Queue(DONE)](https://leetcode.com/problems/design-circular-queue/) `leetcode`
 - [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) `leetcode`
 - [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) `leetcode`
 - [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1) `GFG` `Amex` `Amazon`
