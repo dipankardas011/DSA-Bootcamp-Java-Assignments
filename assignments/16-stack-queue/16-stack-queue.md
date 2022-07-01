@@ -13,6 +13,7 @@
 - [Preorder traversal (Iterative)(DONE)](https://practice.geeksforgeeks.org/problems/preorder-traversal-iterative/1/) `GFG`
 - [Flood fill(DONE)](https://leetcode.com/problems/flood-fill/) `leetcode`
 - [Implement Queue using Stacks(DONE)](https://leetcode.com/problems/implement-queue-using-stacks/) `leetcode`
+
 ## Medium
 - [Design a Stack With Increment Operation(DONE)](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`
 - [Minimum Add to Make Parentheses Valid(DONE)](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) `leetcode`
@@ -20,10 +21,10 @@
 - [Asteroid Collision(DONE)](https://leetcode.com/problems/asteroid-collision/) `leetcode`
 - [132 Pattern(DONE)](https://leetcode.com/problems/132-pattern/) `leetcode`
 - [Design circular Queue(DONE)](https://leetcode.com/problems/design-circular-queue/) `leetcode`
-- [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) `leetcode`
-- [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) `leetcode`
-- [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1) `GFG` `Amex` `Amazon`
-- [Task Scheduler](https://leetcode.com/problems/task-scheduler/) `leetcode`
+- [Find the Most Competitive Subsequence(DONE)](https://leetcode.com/problems/find-the-most-competitive-subsequence/) `leetcode`
+- [Design Front Middle Back Queue(DONE)](https://leetcode.com/problems/design-front-middle-back-queue/) `leetcode`
+- [Circular tour(DONE)](https://practice.geeksforgeeks.org/problems/circular-tour/1) `GFG` `Amex` `Amazon`
+- [Task Scheduler(DONE)](https://leetcode.com/problems/task-scheduler/) `leetcode`
 - [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1/) `GFG`
 - [Max Rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1/) `GFG`
 - [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/) `Google` `GFG`
