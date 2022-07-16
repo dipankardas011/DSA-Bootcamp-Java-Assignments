@@ -26,10 +26,10 @@
 - [Circular tour(DONE)](https://practice.geeksforgeeks.org/problems/circular-tour/1) `GFG` `Amex` `Amazon`
 - [Task Scheduler(DONE)](https://leetcode.com/problems/task-scheduler/) `leetcode`
 - [Stock span problem(DONE)](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1/) `GFG`
-- [Max Rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1/) `GFG`
-- [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/) `Google` `GFG`
-- [Maximum Rectangular Area in a Histogram](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1/) `GFG`
-- [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) `leetcode`
+- [Max Rectangle(DONE)](https://practice.geeksforgeeks.org/problems/max-rectangle/1/) `GFG`
+- [The Celebrity Problem(DONE)](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/) `Google` `GFG`
+- [Maximum Rectangular Area in a Histogram(DONE)](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1/) `GFG`
+- [Binary Tree Right Side View(DONE)](https://leetcode.com/problems/binary-tree-right-side-view/) `leetcode`
 - [Snake and Ladders](https://leetcode.com/problems/snakes-and-ladders/) `leetcode`
 
 ## Hard
