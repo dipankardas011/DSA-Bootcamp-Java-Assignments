@@ -30,11 +30,11 @@
 - [The Celebrity Problem(DONE)](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/) `Google` `GFG`
 - [Maximum Rectangular Area in a Histogram(DONE)](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1/) `GFG`
 - [Binary Tree Right Side View(DONE)](https://leetcode.com/problems/binary-tree-right-side-view/) `leetcode`
-- [Snake and Ladders](https://leetcode.com/problems/snakes-and-ladders/) `leetcode`
+- [Snake and Ladders(DONE)](https://leetcode.com/problems/snakes-and-ladders/) `leetcode`
 
 ## Hard
-- [Longest Valid Parantheses](https://leetcode.com/problems/longest-valid-parentheses/) `leetcode`
-- [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum/) `leetcode`
+- [Longest Valid Parantheses(DONE)](https://leetcode.com/problems/longest-valid-parentheses/) `leetcode`
+- [Sliding window maximum(DONE)](https://leetcode.com/problems/sliding-window-maximum/) `leetcode`
 - [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) `leetcode`
 - [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation5834/1/) `GFG`
 - [Minimum steps to reach target by a Knight](https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/) `GFG`
