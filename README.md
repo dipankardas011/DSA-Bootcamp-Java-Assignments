@@ -15,5 +15,5 @@ the assignments list
  - [x] 13-complexities
  - [x] 14-oop
  - [x] 15-linkedlist
- - [ ] 16-queue&stack
+ - [x] 16-queue&stack
  - [-] OtherSrc
