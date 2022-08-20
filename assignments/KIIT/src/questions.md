@@ -18,7 +18,7 @@ Output: Subarray with the largest sum is {4, -1, 2, 1} with sum 6.
    Given a positive number, map its digits to the corresponding alphabet in the mapping table [(1, 'A'), (2, 'B'), … (26, 'Z')], and return the count of the total number of decodings possible. Assume that the input number can be split into valid single-digit or two-digit numbers that are present in the mapping table.
 For example,
 Input:  123
-Output: 3
+Output: 3(**DONE**)
 The possible decodings are [ABC, AW, LC]
 Input:  1221
 Output: 5
@@ -28,7 +28,7 @@ The possible decodings are [ABBA, ABU, AVA, LBA, LU]
    Given an array, find the total number of inversions of it. If (i < j) and (A[i] > A[j]), then pair (i, j) is called an inversion of an array A. We need to count all such pairs in the array.
 
 For example,
-
+(**DONE**)
 Input:  A[] = [1, 9, 6, 4, 5]
 
 Output: The inversion count is 5
