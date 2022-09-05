@@ -13,3 +13,6 @@ Grind 75
 4. BestTimetoBuyandSellStock (**EASY**) as loop inside loop will have N^2 so to get max from the remaning elements in right in O(1)
             we store the max elements from right to left in another array when the element is and maxEle from that index in maxEleme Array is the answer
 5. ValidPalindrome (**EASY**) filter the noise from the string and then check palindrome using left and right pointers
+6. InvertBinaryTree (**EASY**) as it is a subproblem it can be solved using recustion just exchange the pointers
+7. ValidAnagram (**EASY**) as we need to make all the character in s must be used in t so freq of all charcater must be same
+8. 
