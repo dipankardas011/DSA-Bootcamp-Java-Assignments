@@ -1,3 +1,5 @@
+package Week1;
+
 class TreeNode {
      int val;
      TreeNode left;

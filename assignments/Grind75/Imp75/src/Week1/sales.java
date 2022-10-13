@@ -1,3 +1,5 @@
+package Week1;
+
 public class sales {
     public int maxProfit(int[] prices) {
         int maxProfit = 0;

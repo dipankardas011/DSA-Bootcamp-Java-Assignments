@@ -4,8 +4,9 @@ Date: 20-8-22
 Draft: false
 ---
 
-Grind 75
----
+# Grind 75
+
+## Week 1
 
 1. TwoSum (**EASY**) Used HasMap for storing the current <element,index> when target-this_no not found
 2. ValidParenthesis (**EASY**) USed Stack to keep track of the brackets visited and used balance variable
@@ -18,4 +19,9 @@ Grind 75
 8. BinarySearch (**EASY**) the array is sorted and we can divide the array to find the elements in smallest subset of the array using the property of sorted array
 9. FloodFill (**MEDIUM**) as we need the traverse in 4 directions and check whether its same as org color backtracking and recusion
 10. BalancedBinaryTree (**EASY**) calculate height at each node and find it's `abs() for left and right <= 1` if root != nil then return true
-11. 
+11. DetectCycleLinkList (**EASY**) Using slow and fast pointer as when it collides there is cycle
+12. QueueUsingStack (**EASY**) top of stack is front of queue
+
+## Week 2
+
+1. 

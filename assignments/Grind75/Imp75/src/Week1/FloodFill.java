@@ -1,3 +1,5 @@
+package Week1;
+
 import java.util.Arrays;
 
 public class FloodFill {

@@ -1,3 +1,5 @@
+package Week1;
+
 public class ValidPalindrome {
     public boolean isPalindrome(String s) {
         // only compare letters and numbers and convert uppercase eot lowercase
