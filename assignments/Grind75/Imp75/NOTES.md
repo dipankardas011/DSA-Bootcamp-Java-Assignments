@@ -24,4 +24,7 @@ Draft: false
 
 ## Week 2
 
-1. 
+1. FirstBadVersion(**EASY**) as versions are already sorted in increasing order to binary search will work if found bad move to left if not bad your goal is on right
+2. Ransom Note (**EASY**) as we can determine it using counter of characters if not present in word store then not possible and if no of word store is less than req to create the word the also fails
+3. Climbing Stairs (**EASY**) found that internally fabonacci number is used as no repeatation is allowed
+4. 

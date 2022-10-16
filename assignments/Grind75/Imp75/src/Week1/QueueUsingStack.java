@@ -7,7 +7,8 @@ public class QueueUsingStack {
     Stack<Integer> main;
     Stack<Integer> temp;
 
-    public MyQueue() {
+    public QueueUsingStack() {
+//    public MyQueue() {
         main = new Stack<>();
         temp = new Stack<>();
     }
