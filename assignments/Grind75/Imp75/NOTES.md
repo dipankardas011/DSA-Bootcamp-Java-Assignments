@@ -28,4 +28,8 @@ Draft: false
 2. Ransom Note (**EASY**) as we can determine it using counter of characters if not present in word store then not possible and if no of word store is less than req to create the word the also fails
 3. Climbing Stairs (**EASY**) found that internally fabonacci number is used as no repeatation is allowed
 4. LongestPalindrome (**EASY**) if the count of character is multiple of 2 then its possible to add it to the result
-5. 
+5. MajorityElement (**EASY**) use the Boyer–Moore majority vote algorithm
+6. DiameterBinaryTree (**MEDIUM**) as its distance (longest) so used the depth of left and right AND SUM it to get the max 
+and return the depth to the recursion Tree
+7. AddBinary (**EASY**)
+8. 
