@@ -32,4 +32,13 @@ Draft: false
 6. DiameterBinaryTree (**MEDIUM**) as its distance (longest) so used the depth of left and right AND SUM it to get the max 
 and return the depth to the recursion Tree
 7. AddBinary (**EASY**)
-8. 
+8. MiddleOfLinklist (**EASY**) we can use the O(n/2) to get the middle element using the slow and fasst pointer
+9. MaxiumDepthOfBinaryTree (**EASY**) to calculate the depth of each node and send the max(depth(left), depth(right))
+10. ContainsDeuplicates (**EASY**) use the hasMap to get the freq if the element is already present then return true
+11. MaxiumSubarray (**MEDIUM**) if the current sum becomes < 0 then reset to 0 and again start accumulate()
+
+## Week 3
+
+1. InsertInterval (**MEDIUM**) :warning: `some magic algo`
+    > There shouldn't be overlap
+2. 
