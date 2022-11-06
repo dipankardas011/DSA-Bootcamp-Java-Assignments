@@ -4,6 +4,12 @@ Date: 20-8-22
 Draft: false
 ---
 
+# Extra
+
+1. RobHouse (**MEDIUM**) as we see adjacent house cannot be robed so i-2 and i can be robbed so build a recursive then DP + mem
+2. zigzagLevelOrder (**Medium**) Extract the all nodes with their level labled and then extra elements based on their level and store them in list<>
+3. 
+
 # Grind 75
 
 ## Week 1
@@ -41,4 +47,6 @@ and return the depth to the recursion Tree
 
 1. InsertInterval (**MEDIUM**) :warning: `some magic algo`
     > There shouldn't be overlap
-2. 
+2. 01Matrix(**MEDIUM**) Dynamic programming `TODO`
+3. KClosestPointToOrigin (**MEDIUM**) as we need to calculate the distance of all points after its done we need to retrieve the smallest elements for k number of times (Min Heap)
+4. 
