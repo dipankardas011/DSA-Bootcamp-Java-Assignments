@@ -49,4 +49,6 @@ and return the depth to the recursion Tree
     > There shouldn't be overlap
 2. 01Matrix(**MEDIUM**) Dynamic programming `TODO`
 3. KClosestPointToOrigin (**MEDIUM**) as we need to calculate the distance of all points after its done we need to retrieve the smallest elements for k number of times (Min Heap)
-4. 
+4. LongestSubstringNoDuplicates (**MEDIUM**) key is to keep track of length if the item is present then use the stored index of that item  + 1 and get max and update the start index of substring
+    basically updating the start index of substring when ever ele is present
+5. 
