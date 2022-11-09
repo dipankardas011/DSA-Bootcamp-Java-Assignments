@@ -51,6 +51,7 @@ and return the depth to the recursion Tree
 3. KClosestPointToOrigin (**MEDIUM**) as we need to calculate the distance of all points after its done we need to retrieve the smallest elements for k number of times (Min Heap)
 4. LongestSubstringNoDuplicates (**MEDIUM**) key is to keep track of length if the item is present then use the stored index of that item  + 1 and get max and update the start index of substring
     basically updating the start index of substring when ever ele is present
-5. 3Sum (**MEDIUM**) Store the elements as key and indexes as value get the pair of i,j and search tagret in hashmap 
+5. 3Sum (**MEDIUM**) Store the elements as key and indexes as value get the pair of i,j and search target in hashMap 
 where the target index if found should be > i and > j to be added in resultant list then update the j
-6. 
+6. LevelOrder (**MEDIUM**) Use the Queue to store the elements with their level info and when printing same level will be made into a new list and then appended to the resultant list
+7. 
