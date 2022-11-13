@@ -54,4 +54,11 @@ and return the depth to the recursion Tree
 5. 3Sum (**MEDIUM**) Store the elements as key and indexes as value get the pair of i,j and search target in hashMap 
 where the target index if found should be > i and > j to be added in resultant list then update the j
 6. LevelOrder (**MEDIUM**) Use the Queue to store the elements with their level info and when printing same level will be made into a new list and then appended to the resultant list
-7. 
+7. CloneGraph (**MEDIUM**) As we need to copy the graph we need to get all the children and copy all this depth so
+like bfs used for each child we used that child to create New Node() and add it to copy node in a Recursion Tree
+if found use a method store the already created nodes with given node.val as its distinct
+8. EvaluateReversePolishNotation (**MEDIUM**) As its Postfix left -> right so we can use stack to store and when operator comes pop2() () pop1()
+
+## Week 4
+
+1. 
