@@ -61,4 +61,5 @@ if found use a method store the already created nodes with given node.val as its
 
 ## Week 4
 
-1. 
+1. CourseSchedule (**MEDIUM**) as its mention about dependencies and there should be no dependencies such that cycle forms so we need to check for dependencies for cycle detection i.e. about the nnumber of indegrees if we are in `u -> v` then if indegree(v) == 1 it means that v dependent on onlly 1 that is u , also the indegree helps us to get the number of dependencies for that vertex left if after going though all the vertex there is still some vertex with non zero indegree it means there was cycle so all courses cannot be scheduled
+2. 
