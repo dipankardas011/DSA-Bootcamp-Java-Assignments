@@ -65,4 +65,6 @@ if found use a method store the already created nodes with given node.val as its
 2. Trie (**MEDIUM**) trie is used for prefix matching 
 3. Coin Change (**MEDIUM**) as everytime we need to get the min steps among the all the coins so we can memorize to reduce the number of repetation of computation
 4. ProductArrayExceptSelf (**MEDIUM**) key is to make the last and first as 1 then go on multiplying the as nirmal left to right
-5. 
+5. MinStack (**MEDIUM**) to store the value and minvalue where on each insertion minvalue will be top of val being inserted minvalue gets updated when the val < minval
+so whe pop remove both them and minvalue is set to new top of stack
+
