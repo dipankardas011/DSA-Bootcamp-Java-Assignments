@@ -68,4 +68,5 @@ if found use a method store the already created nodes with given node.val as its
 5. MinStack (**MEDIUM**) to store the value and minvalue where on each insertion minvalue will be top of val being inserted minvalue gets updated when the val < minval
 so whe pop remove both them and minvalue is set to new top of stack
 6. Valid BST (**MEDIUM**) use a lower and upper limit for each node if we move to left lower limit is same as before and upper limit is reduced and so is for right side traversal
-7. 
+7. numberOfIslands (**MEDIUM**) backtracking if 1 is present then make all the surrounding 1's to 0 to make them flood if 0 occurs backtrak
+
