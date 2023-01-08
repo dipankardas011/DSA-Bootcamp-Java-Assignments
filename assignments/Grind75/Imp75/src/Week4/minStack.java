@@ -6,7 +6,7 @@ public class minStack {
     int minelement;
     Stack<Integer> stack;
 
-    public MinStack() {
+    public void MinStack() {
         stack = new Stack<>();
     }
 
