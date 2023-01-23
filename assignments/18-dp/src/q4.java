@@ -1,6 +1,5 @@
 package src;
 
-import java.util.HashMap;
 
 public class q4 {
 //    91 question code
